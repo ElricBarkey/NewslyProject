@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="d2d7c46a-6db5-4e81-a94c-22d935b155f5" name="Newsly" url="https://code-bois.greenriverdev.com.greenriverdev.com/">
-        <fileTransfer rootFolder="/home/codebois/public_html" accessType="SFTP" host="code-bois.greenriverdev.com.greenriverdev.com" port="18765" sshConfigId="d64bb724-77f3-422e-b8b6-018df00ed6b6" sshConfig="codebois@code-bois.greenriverdev.com.greenriverdev.com:18765 password">
+      <webServer id="d2d7c46a-6db5-4e81-a94c-22d935b155f5" name="Newsly" url="https://code-bois.greenriverdev.com.greenriverdev.com/SDEV355">
+        <fileTransfer rootFolder="/home/codebois/public_html/SDEV355" accessType="SFTP" host="code-bois.greenriverdev.com.greenriverdev.com" port="18765" sshConfigId="d64bb724-77f3-422e-b8b6-018df00ed6b6" sshConfig="codebois@code-bois.greenriverdev.com.greenriverdev.com:18765 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

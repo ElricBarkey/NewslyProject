@@ -19,14 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1aa83edc-91bf-4fac-baf9-25d97112a976" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NewslyProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+    <list default="true" id="1aa83edc-91bf-4fac-baf9-25d97112a976" name="Default Changelist" comment="Updated cite">
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newsly webapp/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newsly webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewslyProject/ElricTest/Butterfly/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/NewslyProject/ElricTest/Butterfly/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewslyProject/ElricTest/Butterfly/career.html" beforeDir="false" afterPath="$PROJECT_DIR$/NewslyProject/ElricTest/Butterfly/career.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewslyProject/ElricTest/Butterfly/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/NewslyProject/ElricTest/Butterfly/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewslyProject/ElricTest/Butterfly/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/NewslyProject/ElricTest/Butterfly/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewslyProject/ElricTest/Butterfly/indexStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/NewslyProject/ElricTest/Butterfly/indexStyle.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +47,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1iQgYEx3hyEumCU9ceX82HGBazJ" />
   <component name="ProjectViewState">
@@ -60,8 +63,24 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NewslyProject/ElricTest/Butterfly/assets/img" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/NewslyProject/ElricTest/Butterfly/career.html" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Elric Barkey\PhpstormProjects\NewslyProject\NewslyProject\ElricTest\Butterfly\assets\img" />
+      <recent name="C:\Users\Elric Barkey\PhpstormProjects\NewslyProject\NewslyProject\ElricTest\Butterfly" />
+      <recent name="C:\Users\Elric Barkey\PhpstormProjects\NewslyProject\NewslyProject\ElricTest" />
+      <recent name="C:\Users\Elric Barkey\PhpstormProjects\NewslyProject\NewslyProject\ElricTest\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Elric Barkey\PhpstormProjects\NewslyProject\NewslyProject\ElricTest\Butterfly" />
+      <recent name="C:\Users\Elric Barkey\PhpstormProjects\NewslyProject\NewslyProject" />
+      <recent name="C:\Users\Elric Barkey\PhpstormProjects\NewslyProject\NewslyProject\ElricTest\Butterfly\assets\img" />
+      <recent name="C:\Users\Elric Barkey\PhpstormProjects\NewslyProject\NewslyProject\ElricTest\Butterfly\readme" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,8 +90,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601845275332</updated>
-      <workItem from="1601845276693" duration="1402000" />
+      <workItem from="1601845276693" duration="2515000" />
+      <workItem from="1602021061380" duration="3080000" />
+      <workItem from="1602100136011" duration="2166000" />
+      <workItem from="1602171437443" duration="6602000" />
+      <workItem from="1602187402209" duration="8000" />
+      <workItem from="1602194436588" duration="4765000" />
+      <workItem from="1602213947783" duration="2720000" />
+      <workItem from="1602254746077" duration="4356000" />
+      <workItem from="1602299865941" duration="5000" />
+      <workItem from="1602364364459" duration="544000" />
+      <workItem from="1602367600546" duration="338000" />
+      <workItem from="1602522724388" duration="6657000" />
+      <workItem from="1602646359357" duration="2663000" />
+      <workItem from="1602689463465" duration="5468000" />
+      <workItem from="1602806852602" duration="1812000" />
+      <workItem from="1602893515009" duration="23000" />
+      <workItem from="1603064633668" duration="4154000" />
+      <workItem from="1603137531100" duration="1274000" />
+      <workItem from="1603154412375" duration="301000" />
+      <workItem from="1603154739407" duration="599000" />
+      <workItem from="1603308580737" duration="4802000" />
+      <workItem from="1603426334626" duration="770000" />
+      <workItem from="1603467119271" duration="1380000" />
+      <workItem from="1603672406099" duration="2805000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated cite">
+      <created>1603426897775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603426897775</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,15 +138,38 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated cite" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated cite" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="508" y="174" key="#Deployment" timestamp="1601846333453">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1635" y="144" width="933" height="683" key="#Deployment" timestamp="1602367872020">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="508" y="174" key="#Deployment/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601846333453" />
+    <state x="-1635" y="144" width="933" height="683" key="#Deployment/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602367872020" />
+    <state x="384" y="176" key="#Deployment/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602364445629" />
     <state x="492" y="161" key="#SSH_Configurations" timestamp="1601845346439">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="492" y="161" key="#SSH_Configurations/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601845346439" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603065381077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603065381077" />
+    <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1602195924237">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602195924237" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602893536159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602195599369" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602893536159" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603426910790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603426910790" />
   </component>
 </project>
