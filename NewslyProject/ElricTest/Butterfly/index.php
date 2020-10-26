@@ -11,7 +11,7 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
+    <link href="images/NewLogo.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
@@ -48,7 +48,7 @@
             <ul>
                 <li ><a href="index.html">Home</a></li>
                 <li><a href="blog.html">Blog</a></li>
-                <li class="active"><a href="index.php">Login/Sign Up</a></li>
+                <li class="active"><a href="index.php">Sign Up</a></li>
                 <li ><a href="career.html">Career</a></li>
                 <li>
                     <a href="https://www.linkedin.com/company/newslymeapp/">
@@ -112,11 +112,6 @@
     </form>
     <div class="container" id="videoBox">
 
-        <!--<div class="container" id="webPlayer">
-            <iframe width="899" height="506" src="https://www.youtube.com/embed/BXQMHRtFgXE" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
-        </div>-->
     </div>
 
     <div class="container" id="footerContainer">
