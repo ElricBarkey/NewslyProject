@@ -47,3 +47,12 @@
     height: 506px;
     width: 899px;
 }
+
+img{
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    border-color: #ff3dcf;
+    border: 10px solid;
+
+}

@@ -552,11 +552,15 @@ section {
   -webkit-animation: pulsate-btn 2s;
   animation: pulsate-btn 2s;
   -webkit-animation-direction: forwards;
+  /*
   animation-direction: forwards;
+   */
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
   -webkit-animation-timing-function: steps;
+  /*
   animation-timing-function: steps;
+   */
   opacity: 1;
   border-radius: 50%;
   border: 5px solid rgba(73, 181, 231, 0.7);
