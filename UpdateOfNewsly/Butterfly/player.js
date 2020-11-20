@@ -6,8 +6,8 @@ AWS.config.update({
       accessKeyId and secretAccessKey defaults can be used while using the downloadable version of DynamoDB.
       For security reasons, do not store AWS Credentials in your files. Use Amazon Cognito instead.
     */
-    accessKeyId: "AKIAYURSIGYT5627HCGK",
-    secretAccessKey: "pokhpg4lKUCLylm3M53MPGQ43eCHSrIMNf1hBHfC"
+    accessKeyId: 
+    secretAccessKey:
 });
 
 
